@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-image:url(https://images2.alphacoders.com/133/thumb-1920-133292.jpg);
+    background-size: cover;
+}
+
+.heading{
+    color: aliceblue;
+}
+
+.btn-container{
+    justify-content: center;
+    display: flex;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 25%;
+    border: 10px solid black;
+    margin: 25px;
+}
+
+.blue{
+    background-color: rgb(160, 160, 253);
+}
+
+.green{
+    background-color: rgb(188, 249, 138);
+}
+
+.orange{
+    background-color: rgb(255, 171, 60);
+}
+
+.red{
+    background-color: rgb(253, 72, 66);
+}
+
+.flash{
+    background-color: rgb(255, 255, 255);
+}
+.userFlash{
+    background-color: rgb(0, 131, 0);
+}
